@@ -1,0 +1,6 @@
+{
+  "name": "माँ भगवाती गैरमेंट",
+  "description": "Premium clothing store in Mangawan, Rewa, MP. Shop Men's, Women's & Kids' wear with fast home delivery and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
